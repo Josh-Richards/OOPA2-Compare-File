@@ -1,0 +1,17 @@
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.exe
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.deps.json
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.runtimeconfig.json
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.runtimeconfig.dev.json
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.dll
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.pdb
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.csprojAssemblyReference.cache
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.AssemblyInfoInputs.cache
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.AssemblyInfo.cs
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.dll
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.pdb
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_1a.txt
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_1b.txt
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_2a.txt
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_2b.txt
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_3a.txt
+C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_3b.txt
