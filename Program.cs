@@ -67,19 +67,21 @@ namespace OOP2_GIT_Compare
                     file2byte = rtreadFile2.ReadByte();
                 }
                 while ((file1byte == file2byte) && (file1byte != -1));
+
+                Console.WriteLine("" + "\n" + "" + "-------- The Files are not the same! --------");
+
+                Console.WriteLine("Byte diff position 1 - " + "[ " + file1byte + " ]");
+                Console.WriteLine("Byte diff position 2 - " + "[ " + file2byte + " ]");
+
+                using StreamWriter stream = new StreamWriter(fileDir[6]);
+                stream.Write("File 1 = " + userFile + " " + "Byte diff position " + "[ " + file1byte + " ]" + "   ");
+                stream.Write("File 2 = " + userFile2 + " " + "Byte diff position " + "[ " + file2byte + " ]");
+                stream.Close();
+
                 // Close the text files.
                 rtreadFile.Close();
                 rtreadFile2.Close();
 
-                Console.WriteLine("" + "\n" + "" + "-------- The Files are not the same! --------");
-
-                Console.WriteLine(file1byte);
-                Console.WriteLine(file2byte);
-
-                using StreamWriter stream = new StreamWriter(fileDir[6]);
-                stream.Write("File = " + " | " + userFile + " | " + "Byte diff position " + " | " + file1byte);
-                stream.Write("File = " + " | " + userFile2 + " | " + "Byte diff position " + " | " + file2byte);
-                stream.Close();
             }
         }
     }

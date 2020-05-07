@@ -1,5 +1,4 @@
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Release\netcoreapp3.1\OOP2_GIT_Compare.exe
-C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Release\netcoreapp3.1\GitDiff.txt
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Release\netcoreapp3.1\GitRepositories_1a.txt
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Release\netcoreapp3.1\GitRepositories_1b.txt
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Release\netcoreapp3.1\GitRepositories_2a.txt
@@ -17,3 +16,4 @@ C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Release\netcoreapp3.1\OOP2_GI
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Release\netcoreapp3.1\OOP2_GIT_Compare.dll
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Release\netcoreapp3.1\OOP2_GIT_Compare.pdb
 C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Release\netcoreapp3.1\OOP2_GIT_Compare.genruntimeconfig.cache
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Release\netcoreapp3.1\OOP2_GIT_Compare.csprojAssemblyReference.cache

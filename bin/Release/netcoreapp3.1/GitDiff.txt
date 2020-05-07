@@ -1,1 +1,1 @@
-File =  | GitRepositories_3a.txt | Byte diff position  | 39File =  | GitRepositories_3b.txt | Byte diff position  | 32
+File 1 = GitRepositories_2a.txt Byte diff position [ 85 ]   File 2 = GitRepositories_2b.txt Byte diff position [ 117 ]

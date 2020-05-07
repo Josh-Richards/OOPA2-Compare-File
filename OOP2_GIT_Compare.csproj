@@ -6,9 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Update="GitDiff.txt">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="GitRepositories_1a.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
