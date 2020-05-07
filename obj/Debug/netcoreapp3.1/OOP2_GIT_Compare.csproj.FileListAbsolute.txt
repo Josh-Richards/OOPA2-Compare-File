@@ -15,3 +15,23 @@ C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcore
 C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_2b.txt
 C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_3a.txt
 C:\Users\joshj\Desktop\Visual Studio Projects\OOP2_GIT_Compare\bin\Debug\netcoreapp3.1\GitRepositories_3b.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.exe
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_1a.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_1b.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_2a.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_2b.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_3a.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitRepositories_3b.txt
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.deps.json
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.runtimeconfig.json
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.runtimeconfig.dev.json
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.dll
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\OOP2_GIT_Compare.pdb
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.csprojAssemblyReference.cache
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.csproj.CoreCompileInputs.cache
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.AssemblyInfoInputs.cache
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.AssemblyInfo.cs
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.dll
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.pdb
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\obj\Debug\netcoreapp3.1\OOP2_GIT_Compare.genruntimeconfig.cache
+C:\Users\joshj\Source\Repos\OOPA2-Compare-File\bin\Debug\netcoreapp3.1\GitDiff.txt

@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-GitRepositories_1a",
+      "appliesTo": "GitRepositories_1a.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-GitRepositories_3a",
+      "appliesTo": "GitRepositories_3a.txt",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-GitRepositories_1a",
+      "appliesTo": "GitRepositories_1a.txt",
+      "type": "launch"
+    }
+  ]
+}

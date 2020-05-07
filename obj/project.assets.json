@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshj\\Desktop\\Visual Studio Projects\\OOP2_GIT_Compare\\OOP2_GIT_Compare.csproj",
+      "projectUniqueName": "C:\\Users\\joshj\\Source\\Repos\\OOPA2-Compare-File\\OOP2_GIT_Compare.csproj",
       "projectName": "OOP2_GIT_Compare",
-      "projectPath": "C:\\Users\\joshj\\Desktop\\Visual Studio Projects\\OOP2_GIT_Compare\\OOP2_GIT_Compare.csproj",
+      "projectPath": "C:\\Users\\joshj\\Source\\Repos\\OOPA2-Compare-File\\OOP2_GIT_Compare.csproj",
       "packagesPath": "C:\\Users\\joshj\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshj\\Desktop\\Visual Studio Projects\\OOP2_GIT_Compare\\obj\\",
+      "outputPath": "C:\\Users\\joshj\\Source\\Repos\\OOPA2-Compare-File\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\joshj\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
